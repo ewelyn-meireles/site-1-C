@@ -29,7 +29,7 @@
   
   #rodape{
     height: 50px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgba(161, 125, 125, 0.37) 0.37);
     clear: both;
   }
   
@@ -37,6 +37,6 @@
       text-align: center;
       font-family: Arial, Helvetica, sans-serif;
       font-size: 16px;
-      color: cornflowerblue;
+      color: rgb(0, 0, 0);
   }
   
