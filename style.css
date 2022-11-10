@@ -5,14 +5,14 @@
   
   #cabecalho {
     height: 100px;
-    background-color: darkgrey;
+     background-color: rgb(245, 236, 236)
     margin: 0 auto;
   }
   
   #menu {
     width: 20%;
     height: 600px;
-    background-color: darkslategrey;
+     background-color: rgb(245, 236, 236)
     float: left;
     margin-top: 10px;
   
@@ -29,7 +29,7 @@
   
   #rodape{
     height: 50px;
-    background-color: rgba(161, 125, 125, 0.37) 0.37);
+    background-color: rgb(245, 236, 236)
     clear: both;
   }
   
